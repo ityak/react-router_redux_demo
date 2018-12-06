@@ -1,2 +1,2 @@
 # react-router_redux_demo
-React-router + redux   Demo
+React-router + redux   Demo.
